@@ -1,0 +1,8 @@
+Comando uname -a:
+Muestra información del sistema operativo Linux, incluyendo el nombre del sistema, versión del kernel, arquitectura y otros datos técnicos.
+
+Comando whoami:
+Muestra el nombre del usuario actualmente conectado al sistema.
+
+¿Por qué es útil esta información?
+Es útil para administrar servidores porque permite identificar el sistema operativo, verificar compatibilidad de software y confirmar con qué usuario se están ejecutando los comandos.
